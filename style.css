@@ -1,0 +1,157 @@
+/*
+purple       fond #7469B6
+fond #AD88C6
+background #FFE6E6
+other #E1AFD1
+
+*/
+body{
+    text-align: center;
+    margin:0% ;
+     font-family: 'Audiowide', "Electrolize", monospace;}
+h1{
+    font-family:  "Audiowide", sans-serif;
+     font-size:6rem ;
+     font-style:normal;
+     color: rgb(27, 219, 136);
+     
+    margin: 0%;}
+    .mainprofession{color: aliceblue;
+        font-family:monospace;
+        font-size: larger;}
+p{   
+    font-family:"Electrolize";
+    font-size: large;
+    
+  margin-top: 0%;}
+h2{font-family: 'Electrolize' ;}
+h3{font-family: Courier;
+    font-size: x-large;}     
+ .rip{width: 40%;
+margin: auto;
+ margin-bottom: 50px;}  
+
+    
+.profileimg{
+    margin-top: 50px;
+    inline-size: 15%;
+    border-radius: 100%;}
+.spaceship{position: absolute;
+    right: 200px;
+    margin-left: 500px;} 
+.clouds{position: absolute;
+right: 350px;
+top: 110px;}
+.cloudcity{position: absolute;
+    left: 350px;
+    top: 400px;}
+    .cloudcity2{position: absolute;
+        left: 500px;
+        top: 279px;}
+.shipr{
+
+       position: relative;
+       right: 20px;
+    transform: rotate(30deg);}  
+    hr{
+        border: dotted #EAF6F6 6PX;
+        border-bottom: none;
+        width: 15% ;
+    }  
+
+.main{background: rgb(11,188,178);
+    background: -moz-linear-gradient(0deg, rgba(11,188,178,1) 0%, rgba(7,24,104,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(11,188,178,1) 0%, rgba(7,24,104,1) 100%);
+    background: linear-gradient(0deg, rgba(11,188,178,1) 0%, rgba(7,24,104,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0bbcb2",endColorstr="#071868",GradientType=1);
+       margin: 0% auto;
+    
+}
+.middle{background-color: rgb(11,188,178);
+
+}
+.last{background-color: rgb(248, 247, 247);
+   
+}
+.mainprofession{font-size:1.50rem  ;
+
+}
+.code{
+    width: 25%;
+    float: left;
+    
+}
+.design{
+    width: 32%;
+    float: right;
+}
+.skills{
+    margin-top: 70px;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    margin: 100px auto 100px auto ;
+}
+.skill-row2{
+    width: 50%;
+    margin: auto;
+    text-align: right;
+    margin: 100px auto 100px auto ;
+    
+}
+.contact-me{
+    margin-top: 50px;
+}
+.last{
+    background: rgb(8,54,190);
+    background: -moz-radial-gradient(circle, rgba(8,54,190,1) 0%, rgba(79,205,125,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(8,54,190,1) 0%, rgba(79,205,125,1) 100%);
+    background: radial-gradient(circle, rgba(8,54,190,1) 0%, rgba(79,205,125,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0836be",endColorstr="#4fcd7d",GradientType=1);
+    height: 120px;
+    padding-top:  30PX;
+}
+.BHP{color: blue;
+      margin: auto 0px;}
+a{
+    color: aqua;
+    margin: 10PX 20PX;
+    text-decoration:underline;
+}
+a:hover{
+    color: aliceblue;
+}
+.copyright{
+    padding-top: 50px;
+}
+.btn {
+    background: #f28500;
+    background-image: -webkit-linear-gradient(top, #f28500, #face0a);
+    background-image: -moz-linear-gradient(top, #f28500, #face0a);
+    background-image: -ms-linear-gradient(top, #f28500, #face0a);
+    background-image: -o-linear-gradient(top, #f28500, #face0a);
+    background-image: linear-gradient(to bottom, #f28500, #face0a);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #3cfa75;
+    text-decoration: none;
+  }
+ .contact-me{
+    padding-bottom: 50px;
+    
+ }
+ .lab{width: 50%;
+margin: auto;
+padding-bottom: 40px ;}
